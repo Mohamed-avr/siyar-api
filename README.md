@@ -3,6 +3,11 @@
 ## about 
 5800 siraa from the book of Siyar alam al-nubala
 
+API server link :[here](https://siyaar.onrender.com)
+API link :[here](https://siyaar.onrender.com/siayr)
+
+json files repo [here](https://github.com/beraoudabdelkhalek/siyar-celebrities)
+
 
 ## how to use ? 
 eample :
@@ -18,4 +23,5 @@ console.log(res.data.name)
 
 ```
 
-### note :art:
+### note ⚠️:
+the APIs starts from the ID 54 
