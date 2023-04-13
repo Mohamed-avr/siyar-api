@@ -1,6 +1,6 @@
 # siyar-api :book:
 
-### about 
+## About 
 5800 siraa from the book of Siyar alam al-nubala
 
 API server link :[here](https://siyaar.onrender.com)
@@ -9,7 +9,7 @@ API link :[here](https://siyaar.onrender.com/siayr)
 json files repo [here](https://github.com/beraoudabdelkhalek/siyar-celebrities) and the [owner](https://github.com/beraoudabdelkhalek) 
 
 
-### how to use ? 
+## How to use ? 
 eample :
 ```javascript 
 
@@ -23,5 +23,5 @@ console.log(res.data.name)
 
 ```
 
-### note ⚠️:
+## note ⚠️:
 the APIs starts from the ID 54 
