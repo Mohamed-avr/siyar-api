@@ -1,6 +1,4 @@
-# siyar-api :book:
-
-## About 
+## About :book:
 5800 siraa from the book of Siyar alam al-nubala
 
 API server link is [here](https://siyaar.onrender.com)
